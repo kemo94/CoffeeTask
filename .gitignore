@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+.env
+.docker_build/
+=======
+
+.idea/
+goldStore-api
+*.exe
+public/api/
+>>>>>>> 9b245b24618f1294c0c927c60a434e650ce07a5e
